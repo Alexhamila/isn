@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{"Cuy+":function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),l=t.n(n),c=(t("Wbzz"),t("Bl7J")),r=t("vrFN");a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Contact"}),l.a.createElement("div",{class:"jumbotron jumbotron-fluid"},l.a.createElement("h1",{class:"display-4 text-center"},"alexhamila06@gmail.com"),l.a.createElement("p",{class:"lead text-center"},"Alexandre Hamila, TS3 CIV")))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-9b29cab3adf888a9cf84.js.map
